@@ -1783,7 +1783,6 @@ vendor/etc/str/str_preference_data.dat
 vendor/etc/sysconfig/vendor-apex-allowlist.xml
 vendor/etc/vintf/manifest/deviceManifest.xml
 vendor/etc/vintf/manifest/engmode_manifest.xml
-vendor/etc/vintf/manifest/face-default-sec.xml
 vendor/etc/vintf/manifest/hyper-default-sec.xml
 vendor/etc/vintf/manifest/lights-default-sec.xml
 vendor/etc/vintf/manifest/manifest_hwcomposer.xml
@@ -1801,7 +1800,6 @@ vendor/etc/vintf/manifest/vendor.samsung.hardware.security.ssu-manifest.xml
 vendor/etc/vintf/manifest/vendor.samsung.hardware.security.widevine.keyprov-service.xml
 vendor/etc/vintf/manifest/vendor.samsung.hardware.security.wsm.service-manifest.xml
 vendor/etc/vintf/manifest/vendor.samsung.hardware.sehradio_manifest_2_30.xml
-vendor/etc/vintf/manifest/vendor.samsung.hardware.snap-default.xml
 vendor/etc/vintf/manifest/vendor.samsung.hardware.thermal@1.0-manifest.xml
 vendor/etc/vintf/manifest/vendor.samsung.hardware.tlc.hdm@1.1-manifest.xml
 vendor/etc/vintf/manifest/vendor.samsung.hardware.tlc.iccc@1.0-manifest.xml
